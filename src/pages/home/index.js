@@ -17,7 +17,6 @@ class Home extends Component {
     handleScrollTop(){
         window.scroll(0, 0);
     }
-
     render() {
         return (
             <div>
